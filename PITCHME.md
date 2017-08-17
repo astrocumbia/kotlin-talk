@@ -5,3 +5,6 @@
 <span style="color:gray">Irvin Castellanos Juárez</span>
 
 ---
+#### ¿Por qué Kotlin?
+
+![LOGO](http://i.imgur.com/JngZT55.jpg)
