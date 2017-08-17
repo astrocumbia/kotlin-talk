@@ -8,3 +8,6 @@
 #### ¿Por qué Kotlin?
 
 ![LOGO](http://i.imgur.com/JngZT55.jpg)
+
+---
+#### "Kotlin es un lenguaje"
