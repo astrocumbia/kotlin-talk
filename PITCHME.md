@@ -1,4 +1,4 @@
-![LOGO](https://bugfender.com/wp-content/uploads/2017/06/kotlin-featured.png)
+![LOGO](https://kotlinlang.org/assets/images/twitter-card/kotlin_800x320.png)
 
 #### Creando módulos multiplataforma
 <br>
