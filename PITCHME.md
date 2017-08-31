@@ -17,14 +17,4 @@
 
 #### "Instalando el compilador"
 
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, world!")
-}
-
-@[1]
-@[3]
-@[5-7]
+---?code=examples/install.bash
