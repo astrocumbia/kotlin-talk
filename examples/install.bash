@@ -1,3 +1,5 @@
-sdk install kotlin 
 
-brew install kotlin
+$ sdk install kotlin 
+
+$ brew install kotlin
+
