@@ -7,7 +7,7 @@
 ---
 #### ¿Por qué Kotlin?
 
-![LOGO](https://thumb.ibb.co/jE5aP5/Meme_Perrito2.jpg)
+![LOGO](https://preview.ibb.co/eq09j5/Meme_Perrito2.jpg)
 
 ---
 
