@@ -17,6 +17,4 @@
 
 #### "Instalando el compilador"
 
-code=examples/install.bash
-
----
+---?code=examples/install.bash
