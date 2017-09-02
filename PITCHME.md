@@ -19,12 +19,6 @@
 
 #### Instalando el compilador
 
-```bash
-sdk install kotlinc
-brew install kotlinc
-```
-[documentación](https://kotlinlang.org/docs/tutorials/command-line.html)
-
 ---
 
 #### kotlinc
@@ -35,3 +29,20 @@ Mi nuevo mejor amigo
 ![LOGO](https://image.ibb.co/jT7Owv/dc6wve.jpg)
 
 ---
+
+#### kotlinc
+Mi nuevo mejor amigo
+
+---
+
+* plain
+* amd
+* commonjs
+* umd
+
+
+---
+### contacto
+* [@positr0nix](https://twitter.com/positr0nix)
+* [irvin.py@gmail.com]()
+* [github.com/positr0nix/kotlin-talk](https://github.com/positr0nix/kotlin-talk)
