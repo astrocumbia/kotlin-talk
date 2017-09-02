@@ -18,10 +18,20 @@
 ---
 
 #### Instalando el compilador
+
 ```bash
 sdk install kotlinc
 brew install kotlinc
 ```
+[documentación](https://kotlinlang.org/docs/tutorials/command-line.html)
+
 ---
 
-#### kotlinc mi nuevo mejor amigo
+#### kotlinc
+Mi nuevo mejor amigo
+
+---
+
+![LOGO](https://image.ibb.co/jT7Owv/dc6wve.jpg)
+
+---
