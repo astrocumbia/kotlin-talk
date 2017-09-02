@@ -30,11 +30,6 @@ Mi nuevo mejor amigo
 
 ---
 
-#### kotlinc
-Mi nuevo mejor amigo
-
----
-
 * plain
 * amd
 * commonjs
