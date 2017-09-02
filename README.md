@@ -23,3 +23,12 @@ kotlinc-js filename.kt -output output.js -module-kind umd
 ```bash
 kotlinc-js filename.kt -output output.js -module-kind umd
 ```
+
+Resources
+-------------
+
+* [Kotlinc doc](https://kotlinlang.org/docs/tutorials/command-line.html)
+* [Working with javascript](https://kotlinlang.org/docs/tutorials/javascript/kotlin-to-javascript/kotlin-to-javascript.html)
+* [Node server in Kotlin](https://medium.com/@Miqubel/your-first-node-js-app-with-kotlin-30e07baa0bf7)
+*  [Compile with Gradle](https://kotlinlang.org/docs/tutorials/javascript/getting-started-gradle/getting-started-with-gradle.html)
+* [Kotlin & DOM](https://kotlinlang.org/api/latest/jvm/stdlib/org.w3c.dom/-h-t-m-l-element/index.html)
