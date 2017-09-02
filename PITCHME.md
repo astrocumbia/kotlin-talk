@@ -13,7 +13,7 @@
 
 ---
 
-#### "Kotlin es un lenguaje"
+> Kotlin es un lenguaje
 
 ---
 
@@ -30,6 +30,11 @@ Mi nuevo mejor amigo
 
 ---
 
+#### kotlinc
+Mi nuevo mejor amigo
+
+---
+
 * plain
 * amd
 * commonjs
@@ -38,6 +43,7 @@ Mi nuevo mejor amigo
 
 ---
 ### contacto
-* [@positr0nix](https://twitter.com/positr0nix)
-* [irvin.py@gmail.com]()
-* [github.com/positr0nix/kotlin-talk](https://github.com/positr0nix/kotlin-talk)
+[@positr0nix](https://twitter.com/positr0nix)
+[irvin.py@gmail.com]()
+[github.com/positr0nix/kotlin-talk](https://github.com/positr0nix/kotlin-talk)
+
