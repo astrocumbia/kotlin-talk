@@ -3,6 +3,8 @@
 #### Creando módulos multiplataforma
 <br>
 <span style="color:gray">Irvin Castellanos</span>
+<br>
+<span style="color:gray">@positr0nix</span>
 
 ---
 #### ¿Por qué Kotlin?
@@ -15,6 +17,11 @@
 
 ---
 
-#### "Instalando el compilador"
+#### Instalando el compilador
+```bash
+sdk install kotlinc
+brew install kotlinc
+```
+---
 
----?code=examples/install.bash
+#### kotlinc mi nuevo mejor amigo
