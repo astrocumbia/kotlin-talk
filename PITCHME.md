@@ -30,11 +30,6 @@ Mi nuevo mejor amigo
 
 ---
 
-#### kotlinc
-Mi nuevo mejor amigo
-
----
-
 * plain
 * amd
 * commonjs
@@ -44,6 +39,8 @@ Mi nuevo mejor amigo
 ---
 ### contacto
 [@positr0nix](https://twitter.com/positr0nix)
+<br>
 [irvin.py@gmail.com]()
+<br>
 [github.com/positr0nix/kotlin-talk](https://github.com/positr0nix/kotlin-talk)
 
