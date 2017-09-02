@@ -1,10 +1,25 @@
-# gitpitch-kotlin-talk
+Welcome to Kotlin Talks!
+===================
 
-## Compile
+Here you can found my slides and examples from my talk in Kotlin Meetup CDMX
 
-### javascript
-##### Remember install kotlin with npm
-kotlinc-js filename.kt -output outputfile.js -module-kind umd
+----------
 
-### Java
-kotlinc filename.kt -d output.jar -include-runtime
+
+Slides
+-------------
+you can see my slides in [GitPitch](https://gitpitch.com/positr0nix/kotlin-talk/master?grs=github&t=black)
+
+Compile examples
+-------------
+#### <i class="icon-file"></i> javascript
+> **Note:** Remember install kotlin with npm.
+
+```bash
+kotlinc-js filename.kt -output output.js -module-kind umd
+```
+
+#### <i class="icon-file"></i> Java
+```bash
+kotlinc-js filename.kt -output output.js -module-kind umd
+```
