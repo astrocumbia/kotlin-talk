@@ -21,7 +21,7 @@ kotlinc-js filename.kt -output output.js -module-kind umd
 
 #### <i class="icon-file"></i> Java
 ```bash
-kotlinc-js filename.kt -output output.js -module-kind umd
+kotlinc filename.kt --include-std -include-runtime -d file.jar
 ```
 
 Resources
